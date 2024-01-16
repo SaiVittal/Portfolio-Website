@@ -45,7 +45,7 @@ const Resume = () => {
                 padding: 0,
                 margin: 0,
               }}
-              src="https://www.canva.com/design/DAE02jCrTBo/view?embed"
+              //src="https://www.canva.com/design/DAE02jCrTBo/view?embed"
               allowFullScreen
             ></iframe>
           </div>
