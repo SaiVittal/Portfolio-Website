@@ -56,7 +56,7 @@ export const links = [
   { text: "Skills", path: "/skills" },
   { text: "Projects", path: "/projects" },
   { text: "Experience", path: "/experience" },
-  { text: "Blogs", path: "/blogs" },
+  // { text: "Blogs", path: "/blogs" },
   { text: "Contact", path: "/contact" },
   { text: "Resume", path: "/resume" },
 ];
@@ -170,14 +170,14 @@ export const workData = [
       <>
         <ul>
           <li>
-            I work on Reviniti, an analytics product designed for e-commerce
-            players in the bid management domain. Solely migrated the old
-            codebase from a templating engine (PugJS) to React with TypeScript.
+            Specialized in designing and developing user-friendly interfaces.
           </li>
           <li>
-            Engaged in developing new features, refactoring code, enhancing
-            product performance, bug fixes and contributing towards achieving
-            high scalability for the product.
+            Expert in low-code application development and workflow automation.
+          </li>
+          <li>
+            Proficient in data visualization, data source management, and
+            integrating AI solutions for project improvement
           </li>
         </ul>
       </>
@@ -192,15 +192,13 @@ export const workData = [
       <>
         <ul>
           <li>
-            Engaged in creating comprehensive client-specific and syndicated
-            research reports, along with SEO-focused articles and collateral
-            materials within the domains of chemicals, materials, consumer
-            goods, and industrial goods.
+            Developing Portal for students to access the Recordings and managing
+            the student's List. Contributed to writing Blogs on SQL server and
+            Power Platform
           </li>
           <li>
-            Expertly estimated market valuations and conducted primary research
-            in collaboration with industry experts to validate data, extract
-            valuable market insights.
+            Gained hands-on experience in Power Apps, Power Automate, Dataverse,
+            SharePoint, React JS
           </li>
         </ul>
       </>
@@ -211,73 +209,46 @@ export const workData = [
 export const projectsData = [
   {
     type: "WEB-APP",
-    title: "Movie Magnet",
-    image: "movie-magnet",
-    link: "https://movie-magnet-smoky.vercel.app/",
-    source: "https://github.com/vaheedsk36/movie-magnet",
+    title: "M365 Dashboard",
+    image: "m365Dashboard",
+    link: null,
+    source: "https://github.com/SaiVittal/M365-Health-Report",
   },
   {
     type: "WEB-APP",
     title: "Portfolio Website",
-    image: "portfolio-website",
-    link: null,
-    source: "https://github.com/vaheedsk36/portfolio-website-nextjs",
+    image: "portfolio-site-image",
+    link: "https://portfolio-website-saivittal.vercel.app/",
+    source: "https://github.com/SaiVittal/portfolio-website",
+  },
+
+  {
+    type: "WEB-APP",
+    title: "Dental Care",
+    image: "DentalCare",
+    link: "https://saivittal.github.io/DentalCare/",
+    source: "https://github.com/SaiVittal/DentalCare",
   },
   {
     type: "WEB-APP",
-    title: "Weather App",
-    image: "weather-app",
-    link: "https://vaheedsk36.github.io/weather-app/",
-    source: "https://github.com/vaheedsk36/weather-app",
-  },
-  {
-    type: "WEB-APP",
-    title: "Landing Page",
-    image: "landing-page",
-    link: "https://vaheedsk36.github.io/demo-frontend-bootcamp",
-    source: "https://github.com/vaheedsk36/demo-frontend-bootcamp",
-  },
-  {
-    type: "WEB-APP",
-    title: "Guess Game",
-    image: "guess-game",
-    link: "https://vaheedsk36.github.io/guess-my-number",
-    source: "https://github.com/vaheedsk36/guess-my-number",
-  },
-  {
-    type: "WEB-APP",
-    title: "Notes App",
-    image: "react-notes-app",
-    link: "https://vaheedsk36.github.io/react-notes-app/",
-    source: "https://github.com/vaheedsk36/react-notes-app",
-  },
-  {
-    type: "WEB-APP",
-    title: "Dice Multiplayer",
-    image: "dice-multiplayer",
-    link: "https://vaheedsk36.github.io/dice-multiplayer",
-    source: "https://github.com/vaheedsk36/dice-multiplayer",
+    title: "Airbnb Clone",
+    image: "Airbnb",
+    link: "https://airbnb-webclone-sai.netlify.app/",
+    source: "https://github.com/SaiVittal/Airbnb-Clone2",
   },
   {
     type: "PROJECT",
-    title: "Snake Game",
-    image: "snake-game",
-    link: "https://vaheedsk36.github.io/Snake-game",
-    source: "",
+    title: "Dice Game",
+    image: "DiceGame",
+    link: "https://saivittal.github.io/DiceGame/",
+    source: "https://github.com/SaiVittal/DiceGame",
   },
   {
     type: "PROJECT",
-    title: "Delta Assistant",
-    image: "delta-assistant",
-    link: "",
-    source: "https://github.com/vaheedsk36/Delta-Desktop-Virtual-Assistant",
-  },
-  {
-    type: "WEB-APP",
-    title: "Text Utility App",
-    image: "text-utility-app",
-    link: "https://vaheedsk36.github.io/text-utility-app/",
-    source: "https://github.com/vaheedsk36/text-utility-app",
+    title: "Drum Rolls Game",
+    image: "DrumRollsGame",
+    link: "https://saivittal.github.io/Drums-Rolls/",
+    source: "https://github.com/SaiVittal/Drums-Rolls",
   },
 ];
 
