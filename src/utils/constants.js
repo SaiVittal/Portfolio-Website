@@ -193,7 +193,7 @@ export const workData = [
         <ul>
           <li>
             Developing Portal for students to access the Recordings and managing
-            the student's List. Contributed to writing Blogs on SQL server and
+            the student&apos;s List. Contributed to writing Blogs on SQL server and
             Power Platform
           </li>
           <li>
