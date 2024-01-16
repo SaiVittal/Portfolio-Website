@@ -45,7 +45,7 @@ const Resume = () => {
                 padding: 0,
                 margin: 0,
               }}
-              //src="https://www.canva.com/design/DAE02jCrTBo/view?embed"
+              src="https://amaranth-jerrie-96.tiiny.site/"
               allowFullScreen
             ></iframe>
           </div>
