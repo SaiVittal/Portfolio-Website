@@ -170,10 +170,7 @@ export const workData = [
       <>
         <ul>
           <li>
-            Specialized in designing and developing user-friendly interfaces.
-          </li>
-          <li>
-            Expert in low-code application development and workflow automation.
+            Specialized in designing and developing user-friendly interfaces. Expert in low-code application development and workflow automation.
           </li>
           <li>
             Proficient in data visualization, data source management, and
