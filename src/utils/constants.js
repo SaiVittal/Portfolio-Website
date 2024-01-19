@@ -223,7 +223,7 @@ export const projectsData = [
     title: "Social Media Application",
     image: "sociomedia-app",
     link: 'https://mern-frontend-sociomedia.onrender.com/',
-    source: "https://github.com/SaiVittal/SocioMedia-Mern",
+    source: "https://github.com/SaiVittal/mern-social-media",
   },
 
   {
