@@ -218,6 +218,13 @@ export const projectsData = [
     link: "https://portfolio-website-saivittal.vercel.app/",
     source: "https://github.com/SaiVittal/portfolio-website",
   },
+  {
+    type: "WEB-APP",
+    title: "Social Media Application",
+    image: "sociomedia-app",
+    link: null,
+    source: "https://github.com/SaiVittal/SocioMedia-Mern",
+  },
 
   {
     type: "WEB-APP",
