@@ -204,13 +204,13 @@ export const workData = [
 ];
 
 export const projectsData = [
-  {
-    type: "WEB-APP",
-    title: "M365 Dashboard",
-    image: "m365Dashboard",
-    link: null,
-    source: "https://github.com/SaiVittal/M365-Health-Report",
-  },
+  // {
+  //   type: "WEB-APP",
+  //   title: "M365 Dashboard",
+  //   image: "m365Dashboard",
+  //   link: null,
+  //   source: "https://github.com/SaiVittal/M365-Health-Report",
+  // },
   {
     type: "WEB-APP",
     title: "Portfolio Website",
