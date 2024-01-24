@@ -225,6 +225,13 @@ export const projectsData = [
     link: 'https://mern-frontend-sociomedia.onrender.com/',
     source: "https://github.com/SaiVittal/mern-social-media",
   },
+  {
+    type: "WEB-APP",
+    title: "Buzz Cars",
+    image: "buzzcars-homepage",
+    link: 'https://front-end-buzzcars.onrender.com/',
+    source: "https://github.com/SaiVittal/Buzzcars",
+  },
 
   {
     type: "WEB-APP",
