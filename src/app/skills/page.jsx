@@ -39,6 +39,7 @@ const Skills = () => {
                   transform:"scale(1.05)"
                 }}
               >
+                
                 <CardBody display="flow" alignItems="center" textAlign="center">
                   <Icon as={data.icon} width="55px" height="55px" />
                   <Heading my={1} textAlign="center" fontSize= "1.2rem">
