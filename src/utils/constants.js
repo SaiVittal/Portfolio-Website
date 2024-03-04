@@ -227,7 +227,7 @@ export const projectsData = [
   },
   {
     type: "WEB-APP",
-    title: "Buzz Cars",
+    title: "Sell Cars",
     image: "buzzcars-homepage",
     link: 'https://front-end-buzzcars.onrender.com/',
     source: "https://github.com/SaiVittal/Buzzcars",
